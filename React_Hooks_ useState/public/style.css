@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headingStyle{
+    background-color: chocolate;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.card{
+    background-color: darkcyan;
+    box-shadow: 2px 4px 4px coral;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 390px;
+    display: inline-block;
+
+}
+.name{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.university{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.dept{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.cgpa{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.batch{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.date{
+    text-align: center;
+    margin-bottom: 5px;
+    color: gold;
+
+}
